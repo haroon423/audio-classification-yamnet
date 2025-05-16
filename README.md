@@ -39,8 +39,3 @@ Speech synthesizer: 0.027
 Narration, monologue: 0.012
 Conversation: 0.005
 Detected: Human voice
-
-
----
-
-Paste the above into your `README.md` file, and it will render cleanly on GitHub with proper markdown formatting and structure. Let me know if you want to include a demo audio or a sample result JSON/CSV too.
